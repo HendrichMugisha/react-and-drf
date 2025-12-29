@@ -23,7 +23,7 @@ const Main = () => {
           this is some random text that im typing so fast just to show off
         </p>
 
-        <Button text='Login'  class='btn-warning'/>
+        <Button text='Login'  class='btn-warning' url ='/login'/>
      
       </div>
     </div>
